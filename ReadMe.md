@@ -7,7 +7,7 @@ This project analyses the operating performance of a cafe to understand why grow
 
 The business context comes from my own experience running a cafe after leaving my previous role in legal and contract lifecycle management. While the dataset used in this portfolio project has been constructed for analytical purposes, the business problem and operating context are based on the type of decisions I encountered while running the business.
 
-The central question is simple: Why are trending Revenue and Orders driving the business towards profitability?
+The central question is simple: If revenue and orders are growing, why isn't profitability improving at the same rate?
 
 We are trying to explore how simple cost cutting can impact the business in a manner that drives profitability. 
 
@@ -114,8 +114,8 @@ Business problem -> data preparation -> modelling -> analysis -> insight -> reco
 The focus is not simply on building a Power BI dashboard, but on using data to answer a practical business question and support a decision.
 This project is part of my transition into data analytics, building on my previous experience in legal/contract lifecycle management and my subsequent experience running a Cafe business.
 
-Author
-
+Authored by,
 Yash Shivalkar
-
-Aspiring Data Analyst | Power BI | SQL | Business Analysis
+Phone: +91-8369675916 
+Email: yshivalkar9@gmail.com
+Data Analyst | Power BI | SQL | Business Analysis
