@@ -110,7 +110,7 @@ Once the cost base is brought closer to target, ongoing monitoring of expense-to
 What This Project Demonstrates:
 
 This project demonstrates my ability to take a business problem through a complete analytical workflow:
-Business problem -> data preparation -> modelling -> analysis -> insight -> recommendations
+Business problem -> data preparation -> modelling -> analysis -> recommendations.
 The focus is not simply on building a Power BI dashboard, but on using data to answer a practical business question and support a decision.
 This project is part of my transition into data analytics, building on my previous experience in legal/contract lifecycle management and my subsequent experience running a Cafe business.
 
