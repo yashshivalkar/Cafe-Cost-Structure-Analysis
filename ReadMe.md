@@ -1,4 +1,4 @@
-Cafe Profitability & Cost Control Analysis
+# Cafe Profitability & Cost Control Analysis
 
 Power BI | SQL | DAX | Power Query | Business Analysis
 
@@ -120,6 +120,18 @@ Brings together category-level expense gaps and the projected profit under the t
 
 The projected figure represents **profit, not revenue**. It is conditional on achieving the target expense levels without reducing revenue; it is not an achieved business outcome.
 
+## SQL Analysis
+
+The SQL queries answer three business questions using the source data in `Data/`. They were run in SQLite, with result screenshots included alongside each query.
+
+| Business Question | Approach | Query | Result |
+| --- | --- | --- | --- |
+| What was monthly revenue across both financial years? | `UNION ALL` combines the sales tables; `SUM` and `GROUP BY` calculate monthly totals. | [01_monthly_revenue.sql](sql/01_monthly_revenue.sql) | [Screenshot](sql/01_monthly_revenue.png) |
+| How did revenue change from one month to the next? | A CTE calculates monthly revenue; `LAG` compares each month with the previous month. The output shows the absolute change, not a percentage. | [02_mom_revenue.sql](sql/02_mom_revenue.sql) | [Screenshot](sql/02_mom_revenue.png) |
+| What were total expenses each month? | `SUM` and `GROUP BY` aggregate the expense data by month. | [03_monthly_expenses.sql](sql/03_monthly_expenses.sql) | [Screenshot](sql/03_monthly_expenses.png) |
+
+To run the queries, import the three CSVs into SQLite using their filenames without `.csv` as the table names, then run the SQL files in order.
+
 ## Recommendations
 
 The business should focus first on the largest and most controllable expense gaps rather than attempting broad cost cutting.
@@ -132,21 +144,11 @@ The business should focus first on the largest and most controllable expense gap
 
 The objective is to reduce unnecessary cost while protecting the expenditure that supports sales, product quality and customer experience.
 
-## SQL Analysis
-
-The SQL queries answer three business questions using the source data in `Data/`. They were run in SQLite, with result screenshots included alongside each query.
-
-| Business Question | Approach | Query | Result |
-
-1. What was monthly revenue across both financial years? | `UNION ALL` combines the sales tables; `SUM` and `GROUP BY` calculate monthly totals. | [01_monthly_revenue.sql](sql/01_monthly_revenue.sql) | [Screenshot](sql/01_monthly_revenue.png) |
-2. How did revenue change from one month to the next? | A CTE calculates monthly revenue; `LAG` compares each month with the previous month. The output shows the absolute change, not a percentage. | [02_mom_revenue.sql](sql/02_mom_revenue.sql) | [Screenshot](sql/02_mom_revenue.png) |
-3. What were total expenses each month? | `SUM` and `GROUP BY` aggregate the expense data by month. | [03_monthly_expenses.sql](sql/03_monthly_expenses.sql) | [Screenshot](sql/03_monthly_expenses.png) |
-
 ## What This Project Demonstrates
 
 This project demonstrates my ability to take a business problem through an analytical workflow:
 
-Business problem -> data preparation -> modelling -> analysis -> insight -> recommendations
+**Business problem -> data preparation -> modelling -> analysis -> insight -> recommendations**
 
 It combines Power BI reporting, DAX measures and SQL queries to examine a practical business question. The focus is on explaining the relationship between revenue, costs and profitability, while distinguishing observed results from target-based scenarios.
 
