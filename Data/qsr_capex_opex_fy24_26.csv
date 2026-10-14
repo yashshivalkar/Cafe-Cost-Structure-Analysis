@@ -1,0 +1,193 @@
+Month,Date,Financial_Year,Expense_Category,Expense_Type,Amount
+April 2024,2024-04-01,2024-25,Rent,Fixed,25000.0
+April 2024,2024-04-01,2024-25,Electricity,Variable,9055.53
+April 2024,2024-04-01,2024-25,Water,Variable,2144.78
+April 2024,2024-04-01,2024-25,Staff Salaries,Fixed,44094.38
+April 2024,2024-04-01,2024-25,Raw Materials (Food),Variable,50942.62
+April 2024,2024-04-01,2024-25,Packaging,Variable,13060.2
+April 2024,2024-04-01,2024-25,Marketing,Variable,7815.71
+April 2024,2024-04-01,2024-25,Maintenance,Variable,2710.99
+May 2024,2024-05-01,2024-25,Rent,Fixed,25000.0
+May 2024,2024-05-01,2024-25,Electricity,Variable,9403.5
+May 2024,2024-05-01,2024-25,Water,Variable,1536.08
+May 2024,2024-05-01,2024-25,Staff Salaries,Fixed,45277.86
+May 2024,2024-05-01,2024-25,Raw Materials (Food),Variable,51046.6
+May 2024,2024-05-01,2024-25,Packaging,Variable,11965.6
+May 2024,2024-05-01,2024-25,Marketing,Variable,5667.52
+May 2024,2024-05-01,2024-25,Maintenance,Variable,4423.63
+June 2024,2024-06-01,2024-25,Rent,Fixed,25000.0
+June 2024,2024-06-01,2024-25,Electricity,Variable,8091.86
+June 2024,2024-06-01,2024-25,Water,Variable,2368.84
+June 2024,2024-06-01,2024-25,Staff Salaries,Fixed,43267.79
+June 2024,2024-06-01,2024-25,Raw Materials (Food),Variable,48852.3
+June 2024,2024-06-01,2024-25,Packaging,Variable,11789.68
+June 2024,2024-06-01,2024-25,Marketing,Variable,6291.48
+June 2024,2024-06-01,2024-25,Maintenance,Variable,3831.78
+July 2024,2024-07-01,2024-25,Rent,Fixed,25000.0
+July 2024,2024-07-01,2024-25,Electricity,Variable,6146.98
+July 2024,2024-07-01,2024-25,Water,Variable,1748.57
+July 2024,2024-07-01,2024-25,Staff Salaries,Fixed,42543.45
+July 2024,2024-07-01,2024-25,Raw Materials (Food),Variable,59147.39
+July 2024,2024-07-01,2024-25,Packaging,Variable,14170.21
+July 2024,2024-07-01,2024-25,Marketing,Variable,3625.46
+July 2024,2024-07-01,2024-25,Maintenance,Variable,1183.54
+August 2024,2024-08-01,2024-25,Rent,Fixed,25000.0
+August 2024,2024-08-01,2024-25,Electricity,Variable,9592.18
+August 2024,2024-08-01,2024-25,Water,Variable,2369.2
+August 2024,2024-08-01,2024-25,Staff Salaries,Fixed,47707.0
+August 2024,2024-08-01,2024-25,Raw Materials (Food),Variable,46160.63
+August 2024,2024-08-01,2024-25,Packaging,Variable,10564.26
+August 2024,2024-08-01,2024-25,Marketing,Variable,3060.77
+August 2024,2024-08-01,2024-25,Maintenance,Variable,4659.94
+September 2024,2024-09-01,2024-25,Rent,Fixed,25000.0
+September 2024,2024-09-01,2024-25,Electricity,Variable,6499.11
+September 2024,2024-09-01,2024-25,Water,Variable,1627.5
+September 2024,2024-09-01,2024-25,Staff Salaries,Fixed,42206.45
+September 2024,2024-09-01,2024-25,Raw Materials (Food),Variable,68729.67
+September 2024,2024-09-01,2024-25,Packaging,Variable,10188.14
+September 2024,2024-09-01,2024-25,Marketing,Variable,7900.25
+September 2024,2024-09-01,2024-25,Maintenance,Variable,2232.62
+October 2024,2024-10-01,2024-25,Rent,Fixed,25000.0
+October 2024,2024-10-01,2024-25,Electricity,Variable,8600.32
+October 2024,2024-10-01,2024-25,Water,Variable,1691.88
+October 2024,2024-10-01,2024-25,Staff Salaries,Fixed,42920.56
+October 2024,2024-10-01,2024-25,Raw Materials (Food),Variable,70962.19
+October 2024,2024-10-01,2024-25,Packaging,Variable,14985.36
+October 2024,2024-10-01,2024-25,Marketing,Variable,3454.09
+October 2024,2024-10-01,2024-25,Maintenance,Variable,2397.98
+November 2024,2024-11-01,2024-25,Rent,Fixed,25000.0
+November 2024,2024-11-01,2024-25,Electricity,Variable,6229.54
+November 2024,2024-11-01,2024-25,Water,Variable,1694.6
+November 2024,2024-11-01,2024-25,Staff Salaries,Fixed,43839.61
+November 2024,2024-11-01,2024-25,Raw Materials (Food),Variable,60633.89
+November 2024,2024-11-01,2024-25,Packaging,Variable,12436.96
+November 2024,2024-11-01,2024-25,Marketing,Variable,4096.7
+November 2024,2024-11-01,2024-25,Maintenance,Variable,1632.19
+December 2024,2024-12-01,2024-25,Rent,Fixed,25000.0
+December 2024,2024-12-01,2024-25,Electricity,Variable,8222.81
+December 2024,2024-12-01,2024-25,Water,Variable,1848.92
+December 2024,2024-12-01,2024-25,Staff Salaries,Fixed,43451.2
+December 2024,2024-12-01,2024-25,Raw Materials (Food),Variable,74196.26
+December 2024,2024-12-01,2024-25,Packaging,Variable,12523.56
+December 2024,2024-12-01,2024-25,Marketing,Variable,2090.79
+December 2024,2024-12-01,2024-25,Maintenance,Variable,4828.32
+January 2025,2025-01-01,2024-25,Rent,Fixed,25000.0
+January 2025,2025-01-01,2024-25,Electricity,Variable,9878.8
+January 2025,2025-01-01,2024-25,Water,Variable,1889.92
+January 2025,2025-01-01,2024-25,Staff Salaries,Fixed,49796.38
+January 2025,2025-01-01,2024-25,Raw Materials (Food),Variable,48151.08
+January 2025,2025-01-01,2024-25,Packaging,Variable,14511.99
+January 2025,2025-01-01,2024-25,Marketing,Variable,3013.21
+January 2025,2025-01-01,2024-25,Maintenance,Variable,4456.12
+February 2025,2025-02-01,2024-25,Rent,Fixed,25000.0
+February 2025,2025-02-01,2024-25,Electricity,Variable,8709.57
+February 2025,2025-02-01,2024-25,Water,Variable,2458.34
+February 2025,2025-02-01,2024-25,Staff Salaries,Fixed,43022.81
+February 2025,2025-02-01,2024-25,Raw Materials (Food),Variable,64617.85
+February 2025,2025-02-01,2024-25,Packaging,Variable,14643.43
+February 2025,2025-02-01,2024-25,Marketing,Variable,2773.09
+February 2025,2025-02-01,2024-25,Maintenance,Variable,1740.42
+March 2025,2025-03-01,2024-25,Rent,Fixed,25000.0
+March 2025,2025-03-01,2024-25,Electricity,Variable,8228.24
+March 2025,2025-03-01,2024-25,Water,Variable,1633.69
+March 2025,2025-03-01,2024-25,Staff Salaries,Fixed,40545.39
+March 2025,2025-03-01,2024-25,Raw Materials (Food),Variable,45465.69
+March 2025,2025-03-01,2024-25,Packaging,Variable,11081.76
+March 2025,2025-03-01,2024-25,Marketing,Variable,5899.76
+March 2025,2025-03-01,2024-25,Maintenance,Variable,2863.43
+April 2025,2025-04-01,2025-26,Rent,Fixed,27000.0
+April 2025,2025-04-01,2025-26,Electricity,Variable,9089.86
+April 2025,2025-04-01,2025-26,Water,Variable,1648.48
+April 2025,2025-04-01,2025-26,Staff Salaries,Fixed,44293.47
+April 2025,2025-04-01,2025-26,Raw Materials (Food),Variable,66919.81
+April 2025,2025-04-01,2025-26,Packaging,Variable,10736.09
+April 2025,2025-04-01,2025-26,Marketing,Variable,2243.11
+April 2025,2025-04-01,2025-26,Maintenance,Variable,1346.19
+May 2025,2025-05-01,2025-26,Rent,Fixed,27000.0
+May 2025,2025-05-01,2025-26,Electricity,Variable,9296.13
+May 2025,2025-05-01,2025-26,Water,Variable,2656.72
+May 2025,2025-05-01,2025-26,Staff Salaries,Fixed,48560.09
+May 2025,2025-05-01,2025-26,Raw Materials (Food),Variable,48803.77
+May 2025,2025-05-01,2025-26,Packaging,Variable,10982.17
+May 2025,2025-05-01,2025-26,Marketing,Variable,6574.77
+May 2025,2025-05-01,2025-26,Maintenance,Variable,4504.26
+June 2025,2025-06-01,2025-26,Rent,Fixed,27000.0
+June 2025,2025-06-01,2025-26,Electricity,Variable,7370.1
+June 2025,2025-06-01,2025-26,Water,Variable,2124.89
+June 2025,2025-06-01,2025-26,Staff Salaries,Fixed,43592.13
+June 2025,2025-06-01,2025-26,Raw Materials (Food),Variable,66103.94
+June 2025,2025-06-01,2025-26,Packaging,Variable,14619.38
+June 2025,2025-06-01,2025-26,Marketing,Variable,5397.37
+June 2025,2025-06-01,2025-26,Maintenance,Variable,4472.4
+July 2025,2025-07-01,2025-26,Rent,Fixed,27000.0
+July 2025,2025-07-01,2025-26,Electricity,Variable,7491.96
+July 2025,2025-07-01,2025-26,Water,Variable,2339.31
+July 2025,2025-07-01,2025-26,Staff Salaries,Fixed,48283.74
+July 2025,2025-07-01,2025-26,Raw Materials (Food),Variable,68156.36
+July 2025,2025-07-01,2025-26,Packaging,Variable,10191.86
+July 2025,2025-07-01,2025-26,Marketing,Variable,5101.23
+July 2025,2025-07-01,2025-26,Maintenance,Variable,3758.48
+August 2025,2025-08-01,2025-26,Rent,Fixed,27000.0
+August 2025,2025-08-01,2025-26,Electricity,Variable,7491.62
+August 2025,2025-08-01,2025-26,Water,Variable,2218.25
+August 2025,2025-08-01,2025-26,Staff Salaries,Fixed,43412.43
+August 2025,2025-08-01,2025-26,Raw Materials (Food),Variable,62141.91
+August 2025,2025-08-01,2025-26,Packaging,Variable,15818.99
+August 2025,2025-08-01,2025-26,Marketing,Variable,6352.89
+August 2025,2025-08-01,2025-26,Maintenance,Variable,3266.55
+September 2025,2025-09-01,2025-26,Rent,Fixed,27000.0
+September 2025,2025-09-01,2025-26,Electricity,Variable,10243.07
+September 2025,2025-09-01,2025-26,Water,Variable,2369.08
+September 2025,2025-09-01,2025-26,Staff Salaries,Fixed,48696.14
+September 2025,2025-09-01,2025-26,Raw Materials (Food),Variable,60756.19
+September 2025,2025-09-01,2025-26,Packaging,Variable,15381.92
+September 2025,2025-09-01,2025-26,Marketing,Variable,5816.85
+September 2025,2025-09-01,2025-26,Maintenance,Variable,3186.24
+October 2025,2025-10-01,2025-26,Rent,Fixed,27000.0
+October 2025,2025-10-01,2025-26,Electricity,Variable,8084.47
+October 2025,2025-10-01,2025-26,Water,Variable,1784.99
+October 2025,2025-10-01,2025-26,Staff Salaries,Fixed,45257.12
+October 2025,2025-10-01,2025-26,Raw Materials (Food),Variable,68122.02
+October 2025,2025-10-01,2025-26,Packaging,Variable,13201.79
+October 2025,2025-10-01,2025-26,Marketing,Variable,7179.21
+October 2025,2025-10-01,2025-26,Maintenance,Variable,3020.16
+November 2025,2025-11-01,2025-26,Rent,Fixed,27000.0
+November 2025,2025-11-01,2025-26,Electricity,Variable,8141.07
+November 2025,2025-11-01,2025-26,Water,Variable,2219.74
+November 2025,2025-11-01,2025-26,Staff Salaries,Fixed,45913.91
+November 2025,2025-11-01,2025-26,Raw Materials (Food),Variable,79755.01
+November 2025,2025-11-01,2025-26,Packaging,Variable,13836.55
+November 2025,2025-11-01,2025-26,Marketing,Variable,4108.78
+November 2025,2025-11-01,2025-26,Maintenance,Variable,3203.91
+December 2025,2025-12-01,2025-26,Rent,Fixed,27000.0
+December 2025,2025-12-01,2025-26,Electricity,Variable,10112.14
+December 2025,2025-12-01,2025-26,Water,Variable,2646.97
+December 2025,2025-12-01,2025-26,Staff Salaries,Fixed,50758.74
+December 2025,2025-12-01,2025-26,Raw Materials (Food),Variable,77027.68
+December 2025,2025-12-01,2025-26,Packaging,Variable,14947.1
+December 2025,2025-12-01,2025-26,Marketing,Variable,4540.36
+December 2025,2025-12-01,2025-26,Maintenance,Variable,2884.99
+January 2026,2026-01-01,2025-26,Rent,Fixed,27000.0
+January 2026,2026-01-01,2025-26,Electricity,Variable,8489.21
+January 2026,2026-01-01,2025-26,Water,Variable,1676.23
+January 2026,2026-01-01,2025-26,Staff Salaries,Fixed,49587.89
+January 2026,2026-01-01,2025-26,Raw Materials (Food),Variable,66493.69
+January 2026,2026-01-01,2025-26,Packaging,Variable,14820.33
+January 2026,2026-01-01,2025-26,Marketing,Variable,4362.49
+January 2026,2026-01-01,2025-26,Maintenance,Variable,5301.56
+February 2026,2026-02-01,2025-26,Rent,Fixed,27000.0
+February 2026,2026-02-01,2025-26,Electricity,Variable,9671.35
+February 2026,2026-02-01,2025-26,Water,Variable,2245.17
+February 2026,2026-02-01,2025-26,Staff Salaries,Fixed,45658.18
+February 2026,2026-02-01,2025-26,Raw Materials (Food),Variable,78860.74
+February 2026,2026-02-01,2025-26,Packaging,Variable,14148.83
+February 2026,2026-02-01,2025-26,Marketing,Variable,6267.97
+February 2026,2026-02-01,2025-26,Maintenance,Variable,1917.0
+March 2026,2026-03-01,2025-26,Rent,Fixed,27000.0
+March 2026,2026-03-01,2025-26,Electricity,Variable,7336.14
+March 2026,2026-03-01,2025-26,Water,Variable,1831.98
+March 2026,2026-03-01,2025-26,Staff Salaries,Fixed,53116.8
+March 2026,2026-03-01,2025-26,Raw Materials (Food),Variable,62950.68
+March 2026,2026-03-01,2025-26,Packaging,Variable,14263.74
+March 2026,2026-03-01,2025-26,Marketing,Variable,6642.49
+March 2026,2026-03-01,2025-26,Maintenance,Variable,4588.87
