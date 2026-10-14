@@ -114,7 +114,17 @@ Business problem -> data preparation -> modelling -> analysis -> insight -> reco
 The focus is not simply on building a Power BI dashboard, but on using data to answer a practical business question and support a decision.
 This project is part of my transition into data analytics, building on my previous experience in legal/contract lifecycle management and my subsequent experience running a Cafe business.
 
-Author
+-- ## SQL Analysis
+
+SQL queries answering three business questions, run in SQLite on the source data in `Data/`:
+
+1. **Monthly revenue** (`sql/01_monthly_revenue.sql`) - combined both financial years with UNION ALL, grouped revenue by month
+2. **Month-over-month change** (`sql/02_mom_revenue.sql`) - LAG window function over the monthly totals
+3. **Monthly expenses** (`sql/03_monthly_expenses.sql`) - cost structure by month from the capex/opex sheet
+
+Result screenshots sit above each query in `sql/`
+
+Author,
 
 Yash Shivalkar
 
